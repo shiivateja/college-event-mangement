@@ -78,7 +78,7 @@ npm run dev
 | Variable       | Description                 |
 | -------------- | --------------------------- |
 | GEMINI_API_KEY | API key for AI features     |
-| APP_URL        | Base URL of the application |
+| APP_URL        | (https://college-event-mangement-l0zj.onrender.com/) |
 
 ---
 
